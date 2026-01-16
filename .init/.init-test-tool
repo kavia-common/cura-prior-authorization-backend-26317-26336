@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew test",
+    "working_directory": "/home/kavia/workspace/code-generation/cura-prior-authorization-backend-26317-26336/cura_backend_service"
+}
